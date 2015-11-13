@@ -5,9 +5,72 @@
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 13 Nov 2015 00:42:34 +0100</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2015 00:42:34 +0100</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2015 18:45:47 +0100</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2015 18:45:47 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Blog: Time to change your apps</title>
+        <description>&lt;p&gt;这篇文章是写给有一颗户外的心，但还宅在家里的男女们看的。如果你是户外高手，请不用浪费时间阅读本文。本人漂泊法国留学，被法国的大好河山所吸引，经常关注徒步信息，自己也亲身体验了几次。结合网上资料和个人经历，简单介绍一下法国徒步的状况，我说的是徒步，不是攀岩，不是登山，不是山地自行车。
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section&quot;&gt;简单的地理知识&lt;/h3&gt;
+&lt;p&gt;高原和山地占法国本土面积的四分之一，主要分成三块：东部的阿尔卑斯山脉(Alpes)，中南部的中央高原(Massif Central)和西南边境的比利牛斯山脉(Pyrénées)。这些区域徒步起来比较有意思，风景好，植被丰富。法国的几个国家公园也都座落在这些地方。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-1&quot;&gt;徒步路线&lt;/h3&gt;
+&lt;p&gt;徒步路线主要分为三种：Les sentiers de Grande Randonnée(GR)，Les GR de Pays(GRP)和Les sentiers de Promenade et Randonnée(PR)。我法语不太好，我也不知到怎么翻译。GR是较长的路线，通常需要走几天甚至是几周，穿越一些自然或历史文化区。GRP是环线，也需要走很多天，通常是围绕着一个地区。PR是短线，基本上是一天之内就可以搞定的。GR的路线可以在&lt;a href=&quot;http://www.ffrandonnee.fr/&quot;&gt;FFRP&lt;/a&gt;和&lt;a href=&quot;http://www.gr-infos.com/&quot;&gt;GR-Infos&lt;/a&gt;上查询。具体到每一条路线，还可能会有路线自己的网站。当然也可以查询路线经过地区的县，乡，村的旅游局网站。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;法国主要的GR线路图&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/hiking-paths-france.jpg&quot; alt=&quot;path&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-2&quot;&gt;标志&lt;/h3&gt;
+&lt;p&gt;与徒步线路一致，标志是由la Fédération française de la randonnée pédestre画的，但是有一些地方的标志是由l’Office national des forêts (ONF)画的。所以不用拘泥于标志的形式，徒步时注意观察一切非自然的标记，避免走错路。特别在碎石区，注意观察以前徒步者累起的石头堆。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;徒步标志&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/8/80/BalisageGR.png&quot; alt=&quot;sign&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;自行车标志&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/vtt-balises.jpg&quot; alt=&quot;signvtt&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;国家公园内的各种警示标志&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;标志的意思一看就懂，总归就是走路看风景，什么也别带走，什么也别留下。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/blog/reglementation-pne.jpg&quot; alt=&quot;signreg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;section-3&quot;&gt;地图&lt;/h3&gt;
+&lt;p&gt;地图可以分为两类，一类是预先查询路线的时候用，另一类是徒步的时候用。第一类必看的是&lt;a href=&quot;http://tab.geoportail.fr/&quot;&gt;Gartes IGN&lt;/a&gt;，其次看 &lt;a href=&quot;https://www.google.fr/maps/&quot;&gt;Google map&lt;/a&gt;, &lt;a href=&quot;https://earth.google.com/&quot;&gt;Google earth&lt;/a&gt;和&lt;a href=&quot;https://www.openstreetmap.org/&quot;&gt;OpenStreetMap&lt;/a&gt;。第二类主要是用在手机上，当然也可以去买一徒步登山用的GPS，这一类推荐&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro&quot;&gt;Maps.me&lt;/a&gt;，这个地图是基于&lt;a href=&quot;https://www.openstreetmap.org/&quot;&gt;OpenStreetMap&lt;/a&gt;的数据。唯一的缺点就是这个地图不能看等高线，但是山上的小路标得非常清楚。当然书店里有卖&lt;a href=&quot;http://tab.geoportail.fr/&quot;&gt;Gartes IGN&lt;/a&gt;的地图，很大一张纸，实际在徒步过程中不实用，除非买一个放地图的袋子。地图的适用范围，&lt;a href=&quot;http://tab.geoportail.fr/&quot;&gt;Gartes IGN&lt;/a&gt;仅限法国，&lt;a href=&quot;https://www.google.fr/maps/&quot;&gt;Google map&lt;/a&gt;全世界，&lt;a href=&quot;https://www.openstreetmap.org/&quot;&gt;OpenStreetMap&lt;/a&gt;可以看到全世界，欧洲地区数据比较全面。&lt;/p&gt;
+
+&lt;h3 id=&quot;section-4&quot;&gt;天气预报&lt;/h3&gt;
+&lt;p&gt;天气对于徒步来说非常重要，天气不好会增加徒步额外的难度，更悲剧的是遇上大雾天，或走在云里，那什么都看不见。所以提供几个好用天气预报网站：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;http://www.snow-forecast.com/&quot;&gt;snow-forecast&lt;/a&gt;, &lt;a href=&quot;http://www.accuweather.com/&quot;&gt;AccuWeather&lt;/a&gt;, &lt;a href=&quot;http://www.yr.no/&quot;&gt;yr&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;section-5&quot;&gt;紧急电话&lt;/h3&gt;
+&lt;p&gt;欧洲通用 &lt;strong&gt;112&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;法国120 &lt;strong&gt;15&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;法国110 &lt;strong&gt;17&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;法国119 &lt;strong&gt;18&lt;/strong&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 13 Nov 2015 17:54:46 +0100</pubDate>
+        <link>http://yourdomain.com/blog/hinking/time-to-change-your-apps</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/hinking/time-to-change-your-apps</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>hinking</category>
+        
+      </item>
     
       <item>
         <title>Question: Why did the Chicken cross the road?</title>
@@ -19,23 +82,6 @@
         
         
         <category>question</category>
-        
-      </item>
-    
-      <item>
-        <title>Project: YOUR PROJECT NAME</title>
-        <description>&lt;h4 id=&quot;your-project-name&quot;&gt;YOUR PROJECT NAME&lt;/h4&gt;
-&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.&lt;/p&gt;
-
-&lt;h4 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h4&gt;
-&lt;p&gt;It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 25 Apr 2014 18:54:46 +0200</pubDate>
-        <link>http://yourdomain.com/project/your-project-name</link>
-        <guid isPermaLink="true">http://yourdomain.com/project/your-project-name</guid>
-        
-        
-        <category>project</category>
         
       </item>
     
